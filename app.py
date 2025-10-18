@@ -1,4 +1,8 @@
 # app.py
+# Flask Web Interface for V15 Engine
+# Commit: 9fbbb9e01f1b2932fdda1f7573f7dacbbe9d1149
+# Preservation on GitHub: https://github.com/UIngarsoe/SSISM-V15-PYINNYASHI-
+
 from flask import Flask, request, render_template
 from SSISM_V15_Engine import V15_SSISM_Predict
 
